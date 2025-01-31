@@ -8,3 +8,5 @@ DAY 2 - https://medium.com/@oyedejisamuel05/devopsallstarchallenge-day-2-nba-gam
 DAY 3 - https://medium.com/@oyedejisamuel05/devopsallstarchallenge-day-3-nba-data-lake-788517679f00
 
 DAY 4 - https://medium.com/@oyedejisamuel05/devopsallstarchallenge-day-4-game-day-schedule-api-f70d990d74db
+
+DAY 5 - https://medium.com/@oyedejisamuel05/devopsallstarchallenge-day-5-nba-game-highlight-processor-d347ebe3b82f
